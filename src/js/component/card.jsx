@@ -4,7 +4,7 @@ export const Card = () => {
     return (
         <div className="container-fluid">
             <div className="row">
-                <div className="col-sm-3">
+                <div className="col-md-6 col-lg-3 d-flex justify-content-center">
                     <div className="card" style={{ width: '18rem' }}>
                         <img src="https://picsum.photos/500/325" className="card-img-top" alt="..." />
                         <div className="card-body">
@@ -14,7 +14,7 @@ export const Card = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-3">
+                <div className="col-md-6 col-lg-3 d-flex justify-content-center">
                     <div className="card" style={{ width: '18rem' }}>
                         <img src="https://picsum.photos/500/325" className="card-img-top" alt="..." />
                         <div className="card-body">
@@ -24,7 +24,7 @@ export const Card = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-3">
+                <div className="col-md-6 col-lg-3 d-flex justify-content-center">
                     <div className="card" style={{ width: '18rem' }}>
                         <img src="https://picsum.photos/500/325" className="card-img-top" alt="..." />
                         <div className="card-body">
@@ -34,7 +34,7 @@ export const Card = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-3">
+                <div className="col-md-6 col-lg-3 d-flex justify-content-center">
                     <div className="card" style={{ width: '18rem' }}>
                         <img src="https://picsum.photos/500/325" className="card-img-top" alt="..." />
                         <div className="card-body">
